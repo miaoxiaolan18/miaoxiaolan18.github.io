@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Thank You LC</title>
-    <url>/uncategorized/Thank-You-LC/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/meet/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <content><![CDATA[<p>Welcome to Miao Xiaolan’s blog. Hope you enjoy your time here~</p>
 <a id="more"></a>
 
-
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
@@ -30,27 +25,254 @@
       </categories>
   </entry>
   <entry>
-    <title>I did</title>
-    <url>/read/imadeit/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <title>疫情下的新西兰</title>
+    <url>/meet/2020-05-17-NZinCovid/</url>
+    <content><![CDATA[<p>新西兰，太平洋南部的两个狭长的岛，举目四望，三面海洋。<br>火山静寂，冰川恒久，牧场蓝天，牛羊成群，如同平行世界的存在。<br>这个世界的时间差，是3个月。<br>对于新冠病毒而言。</p>
 <a id="more"></a>
 
+<p>疫情初现，风言乍起的12月，我开始提醒家人减少不必要的外出，自己在海边林间徒步；<br>口罩如硬通货流转，各种魔幻现实上演的1月，远程劝阻家庭聚餐，自己在陶波湖跳伞；<br>武汉解封，国内抗疫初步胜利的3月，新西兰封锁边境，全民居家，微信群有人开始卖口罩现货。<br>最终没能幸免。</p>
+<p>非必要产业停工，餐馆停业，旅游业停摆；</p>
+<p>口罩断货，卫生纸抢空，面粉限制购买。</p>
+<p>最适宜冲浪的夏天，人民被禁止出入海滩；</p>
+<p>很受欢迎的汉堡王，无奈向政府申请破产。</p>
+<p>新西兰是脆弱的。</p>
+<p>疫情来临之前，最自由的就是我认识的那群毛利人。<br>没有摄像头的道路等于没有限速；<br>不喝酒不抽烟等于生活没有乐趣；<br>冲浪游泳皮划艇等于夏天的周末；<br>唱歌跳舞开黄腔等于工作的快落。</p>
+<p>疫情来临之后，最守规则的竟然也是他们。<br>刚通知第二天所有人工作隔开两米，下班出门就躲着你，“刚刚你离我太近了”。<br>第二天上班门口多放一瓶免洗手液，进门排队隔开两米，稍微近一点对方立马弹开。<br>好像是宣布全国封锁的那一刻，除了自己，身边的所有人都带了病毒。好像只要嘴巴上有块布，不管有没有熔喷布，鼻子是不是露出来，隔开两米就可以隔开病毒。</p>
+<p>啊，原来资本主义这么有效率。我还以为差不多就行了。</p>
+<p>到现在为止，这种惊慌看起来是有效的。<br>或者说，新西兰就是老天赏饭吃。<br>建筑零落，山川阻隔，海风狂野，户外的气溶胶传播几率可忽略不计。</p>
+<h2 id="放几个数字："><a href="#放几个数字：" class="headerlink" title="放几个数字："></a>放几个数字：</h2><p>病例总数：1498<br>累计痊愈人数：1421<br>累计死亡人数：21<br>痊愈/死亡比例：94.9%/1.4%<br>中国痊愈/死亡比例：94.3%/5.5%</p>
+<h2 id="放两张图："><a href="#放两张图：" class="headerlink" title="放两张图："></a>放两张图：</h2><p>病例总数曲线：<br><img src="https://upload-images.jianshu.io/upload_images/1193829-71554abced9f2c51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="totalCase"></p>
+<p>每日新增曲线：<br><img src="https://upload-images.jianshu.io/upload_images/1193829-0f66ce038a33b81e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="newcase"></p>
+<p>截至5月16日新西兰本地时间13：00<br>近一周的每日新增在0到1之间波动。</p>
+<h2 id="梳理一下时间线："><a href="#梳理一下时间线：" class="headerlink" title="梳理一下时间线："></a>梳理一下时间线：</h2><p>限制所有中国人入境02/02/2020<br>新西兰首例确诊 28/02/2020<br>边境全面封锁 19/03/2020 所有新入境者自我隔离<br>全国封锁 26/03/2020 所有人居家隔离<br>二级警告 14/05/2020 部分复工，允许国内旅游<br>目前还没有开放国境的消息。</p>
+<p>虽然是亡羊补牢，倒也补牢了。<br>不管是因为地理位置孤立，人口密度低，或是政府决策果断，民众配合度高，新西兰的抗疫成绩可以说是优秀的。整体疫情水平很低，几乎只用了6个星期就把传播曲线压平，联合国也发文表扬。而且按照目前的数据，全国目前仍携带病毒的只有56人，全国人民的健康安全暂时性得到了保障。</p>
+<p>但是代价惨痛，政府快负担不起了。</p>
+<h3 id="经济重创"><a href="#经济重创" class="headerlink" title="经济重创"></a>经济重创</h3><p>全国服务业几乎全面停摆一个季度，而服务业占了全国GDP的20%；<br>封锁边境导致海外游客无法进入，仅3月旅游人次就下降了53.6%；<br>停工带来的失业潮波及甚广，财政部预计六月底失业率达9.3%；<br>失业潮下政府补贴不断，新预算规划500亿新西兰元专用于补贴；<br>政府负债将进一步提升，预计到2028年政府才能达到盈亏平衡。</p>
+<blockquote>
+<p>New Zealand’s real GDP growth rate is forecast to decline from 2.8 per cent in the year ending June 2019 to -4.6% in the year ending June 2020, driven by a quarterly decline in GDP of over 20 per cent in the June 2020 quarter.   </p>
+</blockquote>
+<blockquote>
+<p>Overseas visitor arrivals in New Zealand plunged by 202,700 or 53.6 percent year-on-year to 175,500 in March of 2020.<br><a href="https://tradingeconomics.com/new-zealand/tourist-arrivals" target="_blank" rel="noopener">New Zealand Tourist Arrivals | 1921-2020 Data | 2021-2022 Forecast | Calendar</a>  </p>
+</blockquote>
+<blockquote>
+<p>Unemployment is forecast to increase significantly, rising to 8.3% in the year ending June 2020, before peaking at 9.8% in September 2020 and then recovering thereafter.  </p>
+</blockquote>
+<blockquote>
+<p>The Government is not expected to return to surplus until at least 2028.  </p>
+</blockquote>
+<h2 id="人还好吗"><a href="#人还好吗" class="headerlink" title="人还好吗"></a>人还好吗</h2><p>活着，没有问题。<br>本地人更加没有问题。抗造第一名。新冠病毒下的死亡率约为1%。<br>想象一下秋天海边的场景：日光暗淡，海浪翻滚，本地人穿着短裤半截身子站在海里钓鱼，我和伙伴们冲锋衣拉链拉到最高发着抖在岸上看着他们；<br>想象一下晨间山上的场景：遍地金黄，晨雾缭绕，本地人穿着背心踩着山地车截截向前，我和伙伴们裹紧围巾搓着手哈着气踽踽前行；<br>想象一下公园单杠的场景：儿童嬉闹，杠比人高，本地一个金发小男孩，一米二三的个子，一蹦一抓，刷刷做了9个引体向上。<br>你的想象就是我经历的现实。<br>新西兰人民抗疫纯靠自身免疫力，我靠口罩和隔离。</p>
+<p>生活质量，不敢轻提。<br>熊孩子不能去上学，体育赛事不能如期举行，就连葬礼一时间都不可以超过10个人参加。<br>如果不是领着政府的救济金，没有储蓄习惯的大多数估计生存都会是问题。<br>是的，大部分当地人，可以连续领12周的政府补贴，新消息是12周之后，还可以再领8周的补贴。如果此前每周工作平均超20个小时，每周可以领取585刀（税前）。也就是说有的人大半年不用工作，可以拿到比原来工作时更多的钱。比如我的房东。</p>
+<p>难受的还是我们这群外国人。<br>很多原来在这工作的人，在疫情发生前回国，因为国境关闭无法回来，不仅拿不到补贴，还需要负担每周的房租；<br>有一部分拿到WHV工作旅游签证的人，有的甚至为了过来已经辞职，因为国境关闭，机票被取消，移民局尚未通知可以延签，还在国内挣扎；<br>而稍微幸运一点的已经来到这里的，大部分处于无业状态也无法领取任何补贴，冬天即将来临，工作会更加难找；也不敢轻易回国，飞机上感染风险高，回国的隔离费用离谱。</p>
+<p>新西兰就是一座风景秀丽的围城，外面的人想进来，里面的人想出去。</p>
+<p>除开钱外，都不是问题。<br>防范意识高的，自己找了房子自我隔离。一次性采购一个月的食材，一个厨房新手一个月下来做了72个不重样的菜；<br>心态稳的，待在有无线网的房间里，幸运的一个人坐拥三室一厅的湖景房，从封锁第一天刷剧刷到最后一天；<br>技术好的，守着电脑看着时间，远程给国内做网站，异国同步沟通，在南半球的新西兰赚着北半球的人民币；<br>有公众号的，趁着封锁沉下心来，研究视频号，观察数据，定期更新，制作了好几个阅读量十万加的作品；<br>像我这样碌碌无为的，跟着日本室友叠折纸，和中国室友包饺子，换了一次房子，跟一群小孩打X-BOX。</p>
+<p>疫情下的新西兰还是新西兰。银杏叶开始变黄，风骤起树叶飘零，蓝天清冷透彻，处处秋景撩人。<br>疫情下的工作旅行只剩旅行。期待每一个出门放风的日子，接受松开压力阀门的节奏，盯着白云发呆。</p>
+<p>知道不再那么危险之后，我开始享受，当下即是所有。</p>
+<p>我们希望这疫情可以尽快过去。<br>我们希望这城墙可以尽快打开。<br>我们希望留下的人可以享受此时，想来的人有机会享受此地。</p>
+<h3 id="reference"><a href="#reference" class="headerlink" title="reference:"></a>reference:</h3><p><a href="https://treasury.govt.nz/sites/default/files/2020-05/b20-speech.pdf" target="_blank" rel="noopener">https://treasury.govt.nz/sites/default/files/2020-05/b20-speech.pdf</a><br><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases" target="_blank" rel="noopener">COVID-19 - current cases | Ministry of Health NZ</a><br><a href="https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12332035" target="_blank" rel="noopener">Budget 2020: Government’s $50b Covid-19 recovery Budget biggest spending package in history - NZ Herald</a></p>
+<h3 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h3><p>20200517发表于公众号「小红和小兰」</p>
+]]></content>
+      <categories>
+        <category>meet</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我妈会武术，神仙挡不住</title>
+    <url>/meet/2020-05-10-MyMom/</url>
+    <content><![CDATA[<p>家母徐女士，一九六五年生人，属蛇，因为外婆怀胎的期间，中国的第一颗原子弹爆炸成功，名字里有飞。娘家在浙江一个曾经繁华如今没落的小城市的小村子里。村里一共没几户人家，都姓徐。大家都种点不十分肥美的地，但与她同辈的兄弟们，有作裁缝的，作泥水匠的，作会计的。虽然是地主家庭，没赶上享尊处优的年代，早些年地也是要种的，倒因为家中排行第五，老小，我的舅舅们老早出门干活的时候她还能睡个懒觉。后来她常说，就是因为年纪小的时候太享福，现在生活才这么苦。</p>
+<a id="more"></a> 
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h2 id="〇"><a href="#〇" class="headerlink" title="〇"></a>〇</h2><p>我的外婆家，几乎承载了我整个童年，从学前班到高中的每个寒暑假，在姨妈舅妈家辗转。外公外婆是村里备受尊敬的人物，谁家有点红白喜事帖子都是要递上门来的。谁家添了新丁，必是要抱到外婆面前来瞧瞧的。这时候外婆会包一个红包，里面塞一叶松柏，是吉祥的意味。外公作地主时体恤农户，得以从斗地主最凶的时候逃下一条命来，后来便当了一名会计，毛笔字写得沉着又雅致。至于更远的族系与家使，我就不晓得了，隐约记得有什么祠堂家谱的东西，离家太多年，没机会亲眼见过。</p>
+<p>母亲从小该是被宠大的，外婆的好厨艺没传给她，剪纸她也不会，舅舅种菜的好本事跟她没啥关系，一把年纪之后才开始学她那辈人十几岁就会的东西，也不知道什么时候落下的腰间盘突出的毛病。在我看来，她继承外婆最多的，除了体质差，也就是心软和勤俭了。</p>
+<p>年轻时候的她肤白貌美，能言善辩，脑子灵光，当年供销社一只花，收到的情书比我收到的告白短信都要多。和我爸是自由恋爱，后来听说，我妈娘家人当时全力反对，甚至外婆扬言要是嫁给我爸就断绝母女关系。最后我妈还是把婚结了，当然除了这件事情，其他所有事情上她都很犟。很奇怪，怎么是属蛇的，不是牛吗？</p>
+<p>虽说是自由恋爱，结婚时也不小了，因为我的大姐女儿，我小侄女，已经上了高中，而我还在被我妈天天催着找对象。我是家里的独生女，陪我一起长大的，是一打的表哥和表姐们。现在我长大了，这一打的表哥表姐们加上新添的嫂子姐夫们，就和我妈一起催我这颗独苗，火力好不强劲。</p>
+<p>我是我们这一辈的老小，我还上小学的时候，他们大多都工作了，年龄最近的两个哥哥都紧着学习。那个时候大家也不知道怎么表达爱意，家庭的概念于我就是每个周末凑到一起吃一顿晚饭：外公外婆坐在正位，妈妈那辈一人一碗热了的黄酒，小辈捧着碗站在旁边，就是最高级别的家庭团聚仪式。舅舅们总爱逗他们的妹妹，哪怕是我妈脸喝的通红了也不会停下劝酒。我妈又喜欢黄酒的滋味，一碗接着一碗，喝完经常也就在舅舅家给我们常备的那个房间睡了。</p>
+<p>那个时候的她，笑脸盈盈，酒量惊人，生活美满，意气风发。事业做得很好。二十几岁就开始在经销社的时候，就做些烟酒的小生意。后来自己在市场开了一家皮鞋店，什么羊皮牛皮头层皮一眼就看的出来。后来因为开店没办法带我，就把店关了。等我长大了些，就开始去人寿上班，因为她积累的人脉多，又会聊天，还要强，那几年人寿保险的销售冠军，几乎拿了大满贯。</p>
+<p>那时候她经常笑，眉毛弯弯的，眼角也是弯弯的，两个酒窝戳在脸上，自己带光，笑声练成一片，可以铺成一条毯子，把身边的人都包裹到里面。我最喜欢看她笑了。看她笑的时候，怎么会想到她还曾经历过文化大革命呢。</p>
+<p>那时候的她还是很慷慨的，做事也周全。什么羊毛衫，什么保健品，家里人每户一份，还会算一算是不是一碗水端平。亲戚或者朋友家要借钱，在那个一栋商品房不过一两万的年代，我妈几万几万地往外借。要是有谁在生意上有过照应，过年过节，礼物红包该置办的都少不了。爸爸的朋友来家里了，就算家里一个菜都没有，也要把人家留下来吃饭，出门买了菜现做。“别人对我们的好，我们要记在心里，也要懂得回报”，她常这样跟我说，当时我对这些话的理解就是，同桌今天借给我橡皮，下次我也要借给他。</p>
+<p>一部分归功于我妈的打点，我爸当时事业也算不错，我们家的别墅，是新城区的第一幢，好几年后，大家还在模仿我们的装修风格；储藏室里，是全市第一台的摩托车，三洋牌的，后来我爸手一挥送给了二叔；别人在用诺基亚，我爸就拿着镶钻的翻盖新款三星手机，后来换给了我二姐。</p>
+<p>我的学习，也算是家人嘴里骄傲的谈资。小兰英文又考满分了，小兰毛笔字又拿奖了，小兰进了数奥班了。我把我所有的成绩都归功于我妈，归功于她的严格。人家放学去打台球，我要被关在房间写作业；人家晚饭跑隔壁邻居家吃，我天黑了就不准出去；人家暑假都是精灵宝贝樱桃小丸子，我在舅妈家写作业或者给小店帮忙收钱。后来长大一点才知道，人家三年级才学英文，我幼儿园开始就被我妈教了英文；我也没上过补习班，小学不会的题我妈都会解，讲解的时候从浅到深。可能是那个时候培养的学习习惯，后来一直到高中，也上过补习班。</p>
+<p>谁都说我们家前途无量，我也以为我小学的无忧无虑会自然而然地延展到中学或者一生。可是很遗憾，谁也没想到，事实上，那就是我们家的顶峰了。那几年是我妈最绚丽的日子，换句话说，从那之后，我妈走的每一步都是下坡路。</p>
+<p>可能真的是上辈子造了什么孽吧。</p>
+<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>2000以后，我妈就没停下过去医院。近几年家里有个谁住了院，她也愿意跑到前头，送饭照顾一条龙，都是那几年攒下来的功夫。用她的话说，“我不去照顾谁去照顾”，好像佛祖啊，我不入地狱谁入地狱。</p>
+<p>也是小学的时候，外公被查出得了食道癌，我妈就辞掉了保险的工作照顾他。那年的保险冠军，也不知落了谁家。我妈只是专注地待在医院，跑回家做饭，再跑回医院。我也没人照顾，我妈给了我零花钱自己买早餐中餐和晚餐，有一段时间就住在小舅家里，蹭吃蹭喝蹭住。就这样过了好长好长时间，我有了好多好多的自由，我吃了人生中最多的辣条，也收集了最多的神奇宝贝的卡片。过去了那么那么久，久到我以为外公可以被治愈，后来外公还是去世了。那是我的妈妈第一次失去亲人。<br>跪在外公的灵位前，她眼泪不停地掉。到后面，声音也没了，整个人耷拉着脑袋摊在墙边。灵位前的蜡烛，被风吹得一动一动的，但是烛光进不到她的眼里。她的脸色就像灵前的白布一样，漂得一点血色都没有。后来她笑得就少了，我也不再收集卡片。<br>后面几年的时间，不知道是怎么过去的，一点印象都没有，像是有人拿清洁剂把记忆抹去了，我宁愿承认是因为太悲伤，也不愿意承认是后面的车祸把我脑子撞坏了。</p>
+<p>六年级还没毕业，就快期末考了，我就被卡车撞了，靠。</p>
+<p>是我妈在家对面的河里洗衣服的时候，我想过去找她跟她说我今天想找同学一起出去玩。还没走到对面，我就宕机了。目击者说我飞出去好几米，撞我的是一辆蓝色大卡车。我是不知道的。就像是睡过去了一样，后来醒来的时候我妈趴在我的病床上。医生说2天前，我的脑袋上开了刀，血块已经拿出来了，就是额头还会肿好几天。我还动不了，眨了眨眼，我妈应该能懂。<br>是从那个时候我妈开始接触佛教的。她拿了一个机器放在我的床头，一直一直念大悲咒。可能是因为被撞当天我爸还在外面打麻将，她也没得寄托，就抓了佛祖来给她当后盾。在她眼里，这个后盾是绝对牢靠的，而且会一天比一天牢靠，不像人。她说女儿也是牢靠的，以后妈妈就全靠你了。尽管家里的饭都是她做，衣服都是她洗，钱也是她挣，我实在是不明白能靠我做什么，大人的世界里又不用我帮忙解一元二次方程。</p>
+<p>后来就出院了，出院的第一件事就是参加期末考，靠。</p>
+<p>我当时带了一个恐龙尾巴形状的橘色帽子，我最喜欢的一个，就进了考场。其他所有人都不能戴帽子，我就觉得我是最酷的。拿到考卷，一阵开心，是英文。六年级发生了什么都不记得了，就记得毕业的这场英文考试拿了个满分。也因为这个满分，我妈更加相信佛祖，感谢佛菩萨，女儿的脑袋没有坏掉。</p>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>过了暑假我就上初中了，脑袋好像没有以前灵光了，但是考试分数竟然没有影响。我就觉得，是不是佛祖眷顾，是不是轮到转运了。谁想得到，就在我在讲台上念着描写外婆的作文的时候，我妈就从教室门口冲了进来。“小兰，跟我走。”我以为是狂放不羁的逃学之旅，终点却是外婆的灵位。后来的几年，我最怕遇到写人的作文。</p>
+<p>后来的我妈一直处于自责的状态，都是她没有照顾好外公，都是她没有照顾好我，都是她没有照顾好外婆。<br>然后我爸又病了，诊断书上写了胃癌，我专门拿新华字典查了一下癌是什么病。</p>
+<p>我爸的病应该是最花钱的，因为我妈是从那之后变得精明的。她开始打工了。有一段时间还要打两份工，有一份工就是站在超市的货架前面，有人问“阿姨，洗衣液在哪里？”的时候给人指出来。去菜市场两毛钱都要还。吃饭的时候剩菜也不倒，第二天热了吃。我妈跟我说，是因为她之前挣钱来的太容易，所以佛菩萨都让她还回去了，她说，是因为之前太浪费了，佛菩萨教她要勤俭一点。她每天都要忏悔，我不知道她哪有这么多错。</p>
+<p>我上着学，我爸住着院，我妈做着饭打包成两份两头跑。我也不知道她自己有没有吃。但她肯定坚持念佛了。因为后来我爸痊愈了。胃癌晚期，但是没死。我爸更嘚瑟了，好像病魔是他拿着刀和剑在梦里就战胜了的。</p>
+<p>有一度我觉得佛菩萨的因果报应一定都是假的，为什么熬夜酗酒打牌的事情都是我爸在做，但是生病的时候他只要一躺，反而是我妈在承担一切，要筹钱，要做饭，要照顾小孩，还要照顾我爸的自尊心。</p>
+<p>后来等我长大了，我才知道，可能我妈的好运真的都在我这里，她说的靠我，原来是要等我长大才可以。</p>
+<p>我就当上大学是一个我们家的拐点吧。因为我妈总说，再坚持坚持，等你上大学。再苦再累，等你上大学就好了。</p>
+<p>上了大学好像真的就好了。或者上了大学，离家远了我只听得到好消息了。<br>我爸开始上班，甚至开始到寺庙做义工。我也开始工作，又辞了工作跑来新西兰打工旅游。</p>
+<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>前几天接到一通我妈的电话，劈头盖脸把我骂了一顿。大意就是美国病毒感染都一百三十多万了，你还不回国是要急死老娘。我说这边就是一个小岛，病情已经控制了，您淡定一点。她说好吧，我这几天都睡不好觉，对不起不应该凶你的。但是你真的最好离我近一点。我笑着说，不是有佛祖陪你嘛。她又笑了，笑声连成一片，举着手机站在6°C黑夜里的我，被包裹得好温暖。</p>
+<p>跟她比，我算不上孝顺的孩子，一直到去年才开始带她看牙科，一直等到辞职才开始带她出去旅游，一直等她老了才开始给她拍照，一直等她不再坚强了还不愿意回到她的身旁；<br>跟她比，我算不上厉害的销售，一份工作做下来什么奖都没拿到就辞职了，现在用她的话就是无所事事；<br>但是我是爱她的，比爱世界上任何人都爱她，如果佛祖和她只能选一个我也要选她。但是脸皮太薄，一次都没对她说过这样的话。</p>
+<p>如果这篇文章她会看到，在这里祝她母亲节快乐吧。<br>如果我爸也能看到，那就“爸，你对妈好一点吧，多给点零花钱，你知道你老婆最爱钱了。”</p>
+]]></content>
+      <categories>
+        <category>meet</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>为什么要向万茜学习职业生涯转变？</title>
+    <url>/read/2020-07-02-CareerChange/</url>
+    <content><![CDATA[<p>乘风破浪的姐姐们，你Pick谁？<br>我选万茜。</p>
+<p>万茜，1982年出生，2002年出道，踏着话剧的浪花，涌进音乐的浪潮，被拍到电影的岸上，终于在电视剧的旷野奔跑，一路跑进了综艺的秀场，38岁的她越来越红。</p>
+<p>经历了众多职业身份转变的她，兵来将挡，驾轻就熟。</p>
+<p>可是我怎样才能和姐姐们一样，拥有一技之长，尽早在职场上乘风破浪？</p>
+<a id="more"></a> 
 
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p><strong>传统的职业生涯规划的思路告诉我们，首先要认识自己，寻找“真实的自我”；其次要制定计划，周全细密；最后要采取行动，按部就班。</strong><br><strong>但是，你若这么做，将会一无所获，你最初渴望的职业永远无法实现。<br>**新的研究告诉我们，不如学万茜：</strong><br>先行动，后思考；<br>先上节目，再上课。**</p>
+<p>按照传统的职业生涯规划宝典，先认识自己再做对应计划，那么万茜在大学毕业拿了众多话剧奖项之后就应该“认识”到自己是话剧的天选之子，无论如何都不离开“老本行”；</p>
+<p>按照传统的职业生涯规划宝典，依个人兴趣发展职业，那么唱歌是她最喜欢的事情，演戏反而没那么喜欢，万茜应该在出唱片之后坚守歌手身份，那她将错失成为一个好演员的机会；</p>
+<p>如今她参加了《乘风破浪的姐姐》，用她自己的话说，是来这里寻找新的刺激，而在我看来，这是她<strong>新的行动</strong>，踏入了练习生的<strong>身份</strong>，刷新了<strong>关系网络</strong>，不论成败，必定已经丰富了自我。</p>
+<h2 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h2><p>“我不知道自己喜欢什么。”<br>“可是我好想换工作啊。”</p>
+<p>谁还不是手里捧着乔布斯“Follow your heart”的鸡汤，身上扛着社会的毒打，看着各种弹窗里“小白如何年薪破百万”的令人焦虑的文章，继续日复一日当着社畜忍受枯燥的工作呢？</p>
+<p>谁还不想能一夜之间认识自己，恍然大悟，找到人生的使命感，追着心中所爱，从此一往无前？</p>
+<p>可是没有人告诉你，乔布斯的那碗鸡汤是一碗毒鸡汤，所谓的“自我”，并不会像彩票或者闪电一样在某个月黑风高的夜晚突然击中你；“自我”也不会在某个年龄就稳定下来，通过反省和测试锁定答案。</p>
+<p>因为，<strong>真实的自我（True Self），并不存在。</strong></p>
+<h2 id="谁是我。"><a href="#谁是我。" class="headerlink" title="谁是我。"></a>谁是我。</h2><p><strong>希望是你，预期是你，恐惧也是你。</strong></p>
+<blockquote>
+<p>希望我: 希望自己达到的自我。(长远、强烈的渴望和梦想)<br>预期我：预期自己能达到的自我。（短期可付诸行动的目标）<br>恐惧我：害怕自己成为什么样的人或自我。  </p>
+</blockquote>
+<p>早在1986年斯坦福大学心理学家Hazel Markus提出了“可能的自我(Possible selves)”这一概念，Daphna Oysterman, Herminia Ibarra 丰富发展了这一理论。<br>它和人们一直苦苦寻找的真实自我最大的区别在于，<strong>从基于过去转向基于现在与未来，由能力转向潜力。</strong></p>
+<blockquote>
+<p><em>Possible selves derive from representations of the self in the past and they include representations of the self in the future. They are different and separable from the current or now selves, yet are intimately connected to them. Possible future selves, for example, are not just any set of imagined roles or states of being. Instead they represent specific, individually significant hopes, fears, and fantasies. – Hazel Markus （1986）</em>  </p>
+</blockquote>
+<p>可能自我是不断建构出来的。<br>梦想会长大，目标会变化，多知愈多畏。</p>
+<p>随着年龄的增长，社会角色的变化，对不同可能的想象和尝试后，可能自我会不断发展或者生成。<br>再多的反省也无法取代实践的经验，大多数人上了大学之后才能确定是否喜欢自己的专业。</p>
+<p>如果说歌手是万茜的“真实自我”，那演员就是她“可能的自我”，而“可能的自我”只有在放弃歌手身份之后才得以建立。</p>
+<p><strong>到了这里，传统职业转型的步骤一，“认识自己”不攻自破。<br>我们最终是从实践中认识自己，而不是通过理论；我们通过在现实中尝试，而不是内省。</strong></p>
+<h2 id="先计划？"><a href="#先计划？" class="headerlink" title="先计划？"></a>先计划？</h2><p>计划是一系列的目标。</p>
+<p>“先定一个小目标，我先挣它一个亿”。<br>太宏大的目标令人行动瘫痪。</p>
+<p>我们期待可以规划人生：三十而立，四十不惑，五十知天命。<br>我们也沉浸于目标的计划，新年目标，减肥目标，阅读目标。<br><strong>2020年过半，新年计划完成一半了吗？</strong></p>
+<p>心理学家告诉我们，当目标被说出来的时候，就会产生目标已经实现的错觉。<br>1926年，社会心理学的创始人 Kurt Lewin 称之为“替代”现象；<br>1933年，心理学家 Wera Mahler 发现：当你的目标被别人承认时，你就会误认为自己的目标已经实现了；<br>2009年，心理学家Gollwitzer的实验发现，这批人在说出自己目标的同时，已经拥有完成这些目标的自豪感。</p>
+<p><strong>再说，计划什么时候赶上过变化？</strong></p>
+<p>计划也许对上一代人有用，在他们的时代，上了大学，工作国家分配，铁饭碗坚不可摧，一份工作就是一生的使命；<br>而如今，好工作的定义千变万化：微信出现之前没多少人听过新媒体运营；BAT出现之前，大家公认的好公司只有外企。<br>如果抱死既定的计划，就没有双手拥抱更好的机会。</p>
+<p>到了这里，传统职业转型的步骤二，“制定计划”再次落败。<br>那究竟如何完成职业身份的华丽转身，而不是粉身碎骨呢？</p>
+<h2 id="先行动。"><a href="#先行动。" class="headerlink" title="先行动。"></a>先行动。</h2><p>埃米尼亚·伊贝拉（Herminia Ibarra）给出了答案。<br>她是欧洲工商管理学院Insead组织行为学教授，专注于组织领导力、女性职业和职业转换的研究，也是最有影响力的50位管理学着之一。<br>她在《转行：发现未知的自己》一书中提出了与传统职业转换相悖的方法:先行动，后思考。<br>塑造“职业身份”应该是一种实践，是一个对你“可能的自我”进行测试、检验和了解的过程。</p>
+<p>在实践中，对新职业模糊的认识逐渐清晰，在实践中，可能的自我渐趋具体。</p>
+<p>埃米尼亚提出了三种关键方法：</p>
+<blockquote>
+<p>① 创造实验机会<br>② 改变关系网<br>③ 刷新自我认识  </p>
+</blockquote>
+<h3 id="创造试验机会"><a href="#创造试验机会" class="headerlink" title="创造试验机会"></a>创造试验机会</h3><p>停止幻想，立即行动。以试验的方式进入新的职业。<br>中乐透的第一步，出门买一注。要想进入新的职业，最好的方式不是立即辞职，也不是做大量的调研，而是试一试：例如在周末兼职、在假期参加培训、在下班后尝试第二职业。如果想当摄影师，先拿起手机拍照；如果想当翻译，先参加一个字幕组。</p>
+<h3 id="改变关系网"><a href="#改变关系网" class="headerlink" title="改变关系网"></a>改变关系网</h3><p>避开旧关系圈，建立新关系圈。<br>旧的关系圈是旧职业的保护层也是突破新职业的阻碍墙。在重塑自己的时候，那些最了解我们的人却最可能阻碍我们，而不是帮助。他们本意想要支持，可是谁能苛责上司的器重，同事的喜爱和家人的担心？<br>最有可能帮助我们认识真正自我的人往往是那些我们不熟悉的人。他们可以来自一个新的活动团体如志愿者，或者一个学习共同体。同侪压力可以促进成长，共同进步往往领先于独自练习。</p>
+<h3 id="刷新自我认识"><a href="#刷新自我认识" class="headerlink" title="刷新自我认识"></a>刷新自我认识</h3><p>我说我的故事。<br>乔布斯回头的一生时，曾经的技能连成了一条线；弘一法师顿悟后，舍弃尘世生活毅而遁入空门。他们的故事好看，你的故事同样可以精彩。当不断和他人说自己的故事，厘清自己的改变原因，自我可能的样子也就逐渐清晰。当意图被清楚地说明，别人的支持也会愈加坚定。</p>
+<p>职业转型最终是发现可能的自我的过程，一步到位是奢求。</p>
+<p>“大多数职业生涯的转变都需要3年左右的时间，这个轨迹很少成为一条直线—我们进两步退一步，最终驻足的地方会让自己大吃一惊。”阳志平老师在序言里这么写道。</p>
+<p>万茜花了10年才完成转变，你若是职场新人，又何必着急。</p>
+<h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>人们之所以转变职业生涯失败，并不是缺乏改变的动机，而是用错了姿势。“先计划，再行动”适用于防守老行业，“先行动，再计划”才适合进攻新职业！</p>
+<p>推荐阅读：<br>《转行：发现未知的自己》埃米尼亚·伊贝拉 Herminia Ibarra<br>《如何转变职业生涯》 阳志平<br>《心流：最优体验心理学》 米哈里·希斯赞特米哈伊<br>《成功，动机与目标》海蒂·格兰特·霍尔沃森</p>
+<h3 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h3><p>测试虽然不能判断你的全部，但可以帮你探索“可能的自我”。</p>
+<p>（你一票我一票，万茜就可以出道！）</p>
+<p><a href="https://www.viacharacter.org/" target="_blank" rel="noopener">优势识别器</a></p>
+<p><a href="http://www.apesk.com/holland/index.html" target="_blank" rel="noopener">霍兰德职业兴趣量表及在线测试(完整专业版)</a></p>
+<p><a href="https://www.apesk.com/bigfive/" target="_blank" rel="noopener">The Big Five  大五类人格测试</a></p>
 ]]></content>
       <categories>
         <category>read</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>大山的指纹</title>
+    <url>/take/2020-06-06-MtFingerprint/</url>
+    <content><![CDATA[<p>今天是环岛旅行的第16天。</p>
+<p>江山易改，本性难移。</p>
+<p>好不容易从大山来到城市的小兰和小红，还是喜欢往山里跑。</p>
+<a id="more"></a>
+
+<p>新西兰的环保部也真是极致。</p>
+<p>但凡是座山，就能开发出步道来。</p>
+<p>别说是步道，400多米相对海拔的山还有自行车道，比步道还陡。</p>
+<p>走遍新西兰？</p>
+<p>不敢胡言乱语。</p>
+<p>如果你还没来新西兰，可以看看DOC(环保部)的资料，来之后至少走一条步道。</p>
+<p>我自知不是一个有毅力的人，做事常常是三分钟热度。坚信世上无难事，只要肯放弃。</p>
+<p>徒步这件事，暂时还在坚持，说不定过两天就又不走了。</p>
+<p>最近，冲着这风景，我常常劝自己，来都来了。</p>
+<p>只要站在了山脚下，我就知道我会爬到山顶。</p>
+<p>来都来了，不登顶岂不可惜。</p>
+<p>就怀着这样的信念，在遇到无数的楼梯的时候，走到无路可走得时候，打消放弃的念头。</p>
+<p>300米的400米的山，现在提起来已经不会怵了。</p>
+<p>我不是说我变厉害了。</p>
+<p>我还是很怂。</p>
+<p>爬得还是很慢。</p>
+<p>口口声声喊着我不行了，然后最后一个到顶。</p>
+<p>就当是因为我要拍照所以慢吧。</p>
+<p>昨天拍了湖和云，也拍了些小东西。</p>
+<p>于我，它们就是爬山的意义。</p>
+<p>不在于顶峰在哪里，在于不管多慢，都在上升，一步有一步的风景。</p>
+<p>每一条步道，每一座山的指纹都不同。</p>
+<p>如这些植物的纹理，每种都不同。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-27a9426868b8219a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Mt"></p>
+<p>起床吧松果</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-07077670e0a8ba09?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>该洗头了蘑菇</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-0e70912c77d1394e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>石头缝里蹦出来的</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-6cc7aad091ce62f6?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>年纪有点大</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-8fcbc20eb83d8edc?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>法令纹有点深</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-b3886152e86e8abc?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>眼睛睁不开</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-da6729da0bc37ebb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>我想开了</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-b9d647ca0299c08d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<p>别打了快起来</p>
+<p>(我爬山的速度就像公众号涨粉的速度)</p>
+]]></content>
+      <categories>
+        <category>take</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>天地浩瀚，人间喧哗</title>
+    <url>/take/2020-06-05-WildNature/</url>
+    <content><![CDATA[<p>今天是 环岛旅行的第15天。</p>
+<p>极限运动,是皇后镇最出名的活动。</p>
+<p>山和湖,是皇后镇最诱人的景色。</p>
+<p>我们来到世界探险之都,不蹦极,不跳伞,不滑雪,浪费了折扣,却不敢浪费山河。</p>
+<a id="more"></a>
+
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-3172c609b0719f11?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一朵被时间追杀的云"></p>
+<h1 id="一朵被时间追杀的云"><a href="#一朵被时间追杀的云" class="headerlink" title="一朵被时间追杀的云"></a>一朵被时间追杀的云</h1><p>第一件事情,是观湖。</p>
+<p>第二件事情,是登山。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-c44f9b3d235d9cc6?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="岛"></p>
+<h1 id="岛"><a href="#岛" class="headerlink" title="岛"></a>岛</h1><p>登上本洛蒙德山,观瓦卡蒂波湖,就一下把山湖都收进了感官。</p>
+<p>我竟然有点羡慕眼前的这棵草,它可以目睹清晨,也可以暗赏黑夜,我不过在此停留片刻。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-bbe07b26b3362443?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="在纯净水里游泳"></p>
+<h1 id="在纯净水里游泳"><a href="#在纯净水里游泳" class="headerlink" title="在纯净水里游泳"></a>在纯净水里游泳</h1><p>孤独星球说,瓦卡蒂普湖的水有99.9%的纯净度,舀一杯比瓶装水更佳。</p>
+<p>孤独星球说,卓越山脉,是新西兰最壮观的景色之一。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-7c25b97fdb02ebfe?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="不滴水的云"><a href="#不滴水的云" class="headerlink" title="不滴水的云"></a>不滴水的云</h1><p>那凌利的山峰,直升机也不好轻薄,在上面绕个圈,示威一般轰轰地又开走了。只有云不知天高地厚,随意找个歇脚的地方,歇够了又溜走了。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-e4be11a1dd151043?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="晒翅膀"><a href="#晒翅膀" class="headerlink" title="晒翅膀"></a>晒翅膀</h1><p>这鸟儿也是威风的很,张着翅膀站在观景台上,丝毫没有退让的意思。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-2162ad8cae7bc83a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="口渴"><a href="#口渴" class="headerlink" title="口渴"></a>口渴</h1><p>树也随意,口渴了直接把头埋进湖里。也是,毕竟99.9%的纯净度,不用过滤。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-7637eda1ecc6ebe8?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="瓦卡蒂波湖"><a href="#瓦卡蒂波湖" class="headerlink" title="瓦卡蒂波湖"></a>瓦卡蒂波湖</h1><p>岛被人和车挤得不行,就迈进了湖里,迈出一个半岛来。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-d36a70a1078ab99c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="一叶扁舟"><a href="#一叶扁舟" class="headerlink" title="一叶扁舟"></a>一叶扁舟</h1><p>这艘船反倒被岛挤到岸上来,搁浅了。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-4240499a2ec60b1a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="夹缝"><a href="#夹缝" class="headerlink" title="夹缝"></a>夹缝</h1><p>树也不安分,想把风景据为己有,相互争抢起来,把湖夹在中间,左右为难。</p>
+<p><img src="https://upload-images.jianshu.io/upload_images/1193829-3c15b2bf8ce31b86?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image"></p>
+<h1 id="白云及腰"><a href="#白云及腰" class="headerlink" title="白云及腰"></a>白云及腰</h1><p>云看着着急了,一把环住山,可不能再让他往湖里钻。</p>
+<p>只有我,什么忙也帮不上,什么东西都不敢抢。只得按个快门,留个副本,关起门来偷偷地看。热闹是他们的。</p>
+<h1 id="城市"><a href="#城市" class="headerlink" title="城市"></a>城市</h1><p>梭罗说,城市是一个几百万人一起孤独生活的地方。</p>
+<p>是啊,山和湖才不会孤独,他们的伴可多了。</p>
+<p>我们不过沾了点光,偶尔能和云对个话,幸运的话连湖水也会作答。</p>
+<p>如果在城市注定孤独,皇后镇至少可以添点热闹。</p>
+<p>耳边溪流,咫尺可达。</p>
+<p>天地浩瀚,人间喧哗。</p>
+]]></content>
+      <categories>
+        <category>take</category>
       </categories>
   </entry>
 </search>
