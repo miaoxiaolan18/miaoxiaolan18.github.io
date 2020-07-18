@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/take/
+Allow: /categories/read/
+Allow: /categories/meet/
+Allow: /categories/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://miaoxiaolan18/sitemap.xml
+Sitemap: https://miaoxiaolan18/baidusitemap.xml
